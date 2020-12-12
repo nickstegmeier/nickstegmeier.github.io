@@ -3,4 +3,4 @@ layout: default
 title: About
 ---
 # About page
-This page tells you a little about me.
+Didn't you learn enough about me from the Home page? Check out the <a href="/blog.html">Blog</a>.
