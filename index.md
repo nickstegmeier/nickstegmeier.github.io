@@ -1,3 +1,5 @@
 ---
+layout: default
+title: Home
 ---
-This is the index!
+<h1>{{ "Hello world!" | downcase }}</h1>
